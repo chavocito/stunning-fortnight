@@ -1,0 +1,4 @@
+outputs
+input
+*.png
+node_modules
